@@ -1,0 +1,6 @@
+﻿{
+  "name": "usage-band-marketplace",
+  "owner": { "name": "kevinilcondor" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
+

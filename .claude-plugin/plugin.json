@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.1.0", "description": "Banda sopra il prompt: memoria chat, costo, uso 5 ore/settimana, sessione e cache calda", "types": "./types/index.d.ts" }
